@@ -1,4 +1,4 @@
-# QueryBuilderClassMysql-php
+# Query Builder Class Mysql-php [Auto Generating Query Using Class]
 1.Introduction:
 	I devloped class file in php for build a query like insert,update,delete and select operation in query builder class generating the individual class for all table in database and provide getter setter method using a simple object to perform database operation and create complex select query.This class using a minimum script to perform crude operation to provide standardize way to perform database operation using single method to generate complex select,insert,update,delete query auto generating  getter setter method for all table. This class reduce code to perform db operation.
 	This query builder consists a set of classes, each handling a specific part of the query building process. Generating the individual class for all table in database and provide getter setter method using a simple object to perform database operation.
